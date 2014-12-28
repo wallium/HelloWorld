@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-
+// random comment
 public class MainActivity extends ActionBarActivity {
 
     @Override
